@@ -1,4 +1,19 @@
 #!/usr/bin/env python3
+"""
+grafo.py
+
+Autor: Hugo Vallejo Misa
+
+Versión: 1.0
+Fecha de creación: 2026-03-10
+Última modificación: 2026-06-18
+
+Descripción:
+Herramienta para la exploración de redes de reacción
+generadas con AutoMeKin/Pilgrim, identificación de
+caminos mecanísticamente relevantes y generación
+automática de archivos pif.chem.
+"""
 import os
 import shutil
 import string
